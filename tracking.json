@@ -1,0 +1,478 @@
+[
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?adjust\\.io",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.adjust.io"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?airbrake\\.io",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.airbrake.io"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?appboy\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.appboy.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?appsflyer\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.appsflyer.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?apsalar\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.apsalar.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?bango\\.combango\\.org",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.bango.combango.org"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?bango\\.net",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.bango.net"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?basic-check\\.disconnect\\.me",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.basic-check.disconnect.me"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?bkrtx\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.bkrtx.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?bluekai\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.bluekai.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?bugsense\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.bugsense.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?burstly\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.burstly.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?chartboost\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.chartboost.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?count\\.ly",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.count.ly"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?crashlytics\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.crashlytics.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?crittercism\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.crittercism.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?custom-blacklisted-tracking-example\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.custom-blacklisted-tracking-example.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?do-not-tracker\\.org",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.do-not-tracker.org"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?eviltracker\\.net",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.eviltracker.net"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?flurry\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.flurry.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?getexceptional\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.getexceptional.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?inmobi\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.inmobi.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?jumptap\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.jumptap.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?localytics\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.localytics.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?mixpanel\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.mixpanel.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?mobile-collector\\.newrelic\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.mobile-collector.newrelic.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?mobileapptracking\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.mobileapptracking.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?playtomic\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.playtomic.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?stathat\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.stathat.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?supercell\\.net",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.supercell.net"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?tapjoy\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.tapjoy.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?trackersimulator\\.org",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.trackersimulator.org"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?usergrid\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.usergrid.com"
+   ]
+  }
+ },
+ {
+  "action": {
+   "type": "block"
+  },
+  "trigger": {
+   "url-filter": "^https?://(.+\\.)?vungle\\.com",
+   "load-type": [
+    "third-party"
+   ],
+   "unless-domain": [
+    "*.vungle.com"
+   ]
+  }
+ }
+]
