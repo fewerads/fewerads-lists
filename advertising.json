@@ -72426,7 +72426,7 @@
  },
  {
   "action": {
-   "selector": "#adsDiv,#adsDiv0,#adsDiv1,#adsDiv2,#adsDiv3,#adsDiv4,#adsDiv5,#adsDiv6,#adsDiv7",
+   "selector": "#adsDiv,#adsDiv0,#adsDiv1,#adsDiv2,#adsDiv3,#adsDiv4,#adsDiv5,#adsDiv6,#adsDiv7,#adDiv,.adDiv",
    "type": "css-display-none"
   },
   "trigger": {
